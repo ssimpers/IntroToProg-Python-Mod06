@@ -1,0 +1,2 @@
+watch module,high
+write document,low
